@@ -5,6 +5,8 @@ html {
 
 body {
   background: #e8347d;
+  font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
 }
 
 .color {
@@ -32,7 +34,6 @@ button {
   border-radius: 25px;
   padding: 10px 15px;
   outline: none;
-  font-family: 'Poppins', sans-serif;
-font-family: 'Source Sans Pro', sans-serif;
+  
 }
 
